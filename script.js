@@ -3,4 +3,4 @@ function myfunction(){
     document.getElementById("hi")
 }
 
-alert("boooo")
+alert("5+6=")
