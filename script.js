@@ -3,5 +3,4 @@ function myfunction(){
     document.getElementById("hi")
 }
 
-
-alert("hi")
+alert("boooo")
