@@ -1,5 +1,7 @@
 console.log("hellow world" )
-function .document('getElementById("hi")')
+function myfunction(){
+    document.getElementById("hi")
+}
 
 
 alert("hi")
