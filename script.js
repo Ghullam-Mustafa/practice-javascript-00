@@ -1,4 +1,5 @@
 console.log("hellow world" )
-let button =document.querySelector("button") 
+
+document.getElementById("hi")
 
 alert("hi")
