@@ -35,4 +35,5 @@ h3{
     background-color: chartreuse;
     font-size: medium;
     font: 600;
+    cursor: pointer;
 }
