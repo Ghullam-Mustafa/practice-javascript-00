@@ -37,4 +37,5 @@ h3{
     font: 600;
     cursor: pointer;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: auto;
 }
