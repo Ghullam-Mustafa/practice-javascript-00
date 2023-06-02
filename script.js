@@ -1,13 +1,11 @@
-console.log("hellow world" )
-function myfunction(){
-    document.getElementById("hi")
-}
-
-alert("5+6=")
-
-function add(){
-    document.getElementById("add")
-}
-alert("x=3;y=4; z=x+y;")
-
+// document.getElementById("enter").onclick = function (paras) {
+//     var password = document.getElementById('data').value;
+// console.log(password);
+// document.getElementById('output').innerHTML = password;
+//     if (password.length < 8 ) {
+//         alert("Enter eight digit code ")
+//         return;
+//     }
+    
+// }
 
